@@ -32,9 +32,7 @@
 
 | <h3> Social Links </h3> | <a href = 'https://www.linkedin.com/in/dextermtor-rahulraj/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; <a href = 'https://www.instagram.com/me.shubham._/'> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp
 | :-- | :-- 
-| <h3>Coding Platform Links</h3> | <a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; <div style="background-color: white; display: inline-block; padding: 10px;"><a href = "https://codeforces.com/profile/DexTerMtor">
-    <img width="512" alt="Codeforces logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/512px-Codeforces_logo.svg.png">
-</a> </div>&nbsp;
+| <h3>Coding Platform Links</h3> | <a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; <a href = "https://codeforces.com/profile/DexTerMtor"><img width="80" alt="Codeforces logo" src="https://codeforces.org/s/34688/images/codeforces-sponsored-by-ton.png"></a>&nbsp;
 
 <div align="center">
   
@@ -43,8 +41,24 @@
 <div>
 
 
-<div align="center">
- 
-![3d](https://raw.githubusercontent.com/DexTerMtor-Rahul/DexTerMtor-Rahul/main/profile-3d-contrib/profile-night-green.svg)
-
+<div align="center" style="background-color: white; padding: 20px;">
+    <img src="https://raw.githubusercontent.com/DexTerMtor-Rahul/DexTerMtor-Rahul/main/profile-3d-contrib/profile-night-green.svg" alt="3d" width="800" />
 </div>
+
+<!-- GitHub Stats -->
+<div>
+<h2> GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=DexTerMtor-Rahul&custom_title=Rahul's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="DexTerMtor-Rahul" align="center" width="32%" height="30%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexTerMtor-Rahul&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DexTerMtor-Rahul&theme=react" alt="DexTerMtor-Rahul" width="34%" height="30%" />
+</div>
+
+<!-- Contribution Graph -->
+<h3>📈 Contribution Graphs</h3>
+  <h4> <img width="20px" src="https://cdn-icons-png.flaticon.com/512/6195/6195803.png" align="center" /> Last 30 days graph</h4>
+  <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DexTerMtor-Rahul&theme=react&area=true&hide_border=true" />
+  
+  <h4> <img width="20px" src="https://github.com/sachin-gupta99/sachin-gupta99/assets/97335790/0c2c2aef-08d6-493e-b916-596fef04c1cf" align="center" /> Last 1 year graph</h4>
+  <img width="80%" alt="contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexTerMtor-Rahul&theme=react" />
+
+<br>

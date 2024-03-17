@@ -28,7 +28,7 @@
 <br>
 
 <!-- Connect with me -->
-<h2> Connect with me <img src='https://media.tenor.com/bvwqwI3nvxMAAAAi/bax-shop-bax.gif' width="32px" height=32px> </h2>
+<h2> Connect with me <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="32px" height=32px> </h2>
 
 | <h3> Social Links </h3> | <a href = 'https://www.linkedin.com/in/dextermtor-rahulraj/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; <a href = 'https://www.instagram.com/me.shubham._/'> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp
 | :-- | :-- 

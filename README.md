@@ -34,9 +34,14 @@
 | :-- | :-- 
 | <h3>Coding Platform Links</h3> | <a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; <a href = "https://codeforces.com/profile/DexTerMtor"><img width="80" alt="Codeforces logo" src="https://codeforces.org/s/34688/images/codeforces-sponsored-by-ton.png"></a>&nbsp;
 
+<br>
 
-<h2>Leetcode Stats </h2><img src="https://leetcode.card.workers.dev/DexTerMtor?theme=auto&font=baloo&extension=activity"> 
+<!-- Leetcode Stats -->
 
+<h2>Leetcode Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
+<img src="https://leetcode.card.workers.dev/DexTerMtor?theme=auto&font=baloo&extension=activity"> 
+
+<br>
 
 <!-- GitHub Stats -->
 <div>
@@ -46,13 +51,15 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DexTerMtor-Rahul&theme=react" alt="DexTerMtor-Rahul" width="34%" height="30%" />
 </div>
 
+<br>
+
 <!-- Contribution Graph -->
 <h3>📈 Contribution Graphs</h3>
   <h4> <img width="20px" src="https://cdn-icons-png.flaticon.com/512/6195/6195803.png" align="center" /> Last 30 days graph</h4>
-  <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DexTerMtor-Rahul&theme=react&area=true&hide_border=true" />
+  <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DexTerMtor-Rahul&theme=react-dark&area=true&hide_border=true" />
    <img src="https://raw.githubusercontent.com/DexTerMtor-Rahul/DexTerMtor-Rahul/main/profile-3d-contrib/profile-night-green.svg" alt="3d" width="800" />
    
   <h4> <img width="20px" src="https://github.com/sachin-gupta99/sachin-gupta99/assets/97335790/0c2c2aef-08d6-493e-b916-596fef04c1cf" align="center" /> Last 1 year graph</h4>
-  <img width="80%" alt="contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexTerMtor-Rahul&theme=react" />
+  <img width="80%" alt="contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexTerMtor-Rahul&theme=vision_friendly_dark" />
   
 <br>

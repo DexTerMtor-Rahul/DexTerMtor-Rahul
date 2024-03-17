@@ -17,6 +17,6 @@
 
 <div align="center">
  
-![3d](https://github.com/DexTerMtor-Rahul/blob/main/profile-3d-contrib/profile-night-green.svg)
+![3d](https://github.com/DexTerMtor-Rahul/DexTerMtor-Rahul/blob/main/profile-3d-contrib/profile-night-green.svg)
 
 </div>

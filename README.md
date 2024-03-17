@@ -32,7 +32,7 @@
 
 | <h3> Social Links </h3> | <a href = 'https://www.linkedin.com/in/dextermtor-rahulraj/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; <a href = 'https://www.instagram.com/me.shubham._/'> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp
 | :-- | :-- 
-| <h3>Coding Platform Links</h3> | <a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; <a href = "https://www.hackerrank.com/sachin_gupta99"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="45px"></a> &nbsp;
+| <h3>Coding Platform Links</h3> | <a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; <a href = "https://codeforces.com/profile/DexTerMtor"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="45px" background-color="white"></a> &nbsp;
 
 <div align="center">
   

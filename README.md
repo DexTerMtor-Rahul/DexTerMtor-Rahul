@@ -1,4 +1,5 @@
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DexTerMtor-Rahul99&label=Profile%20views&color=0e75b6&style=plastic" alt="DexTerMtor-Rahul" /> </p>
 
 <h1 align="center">Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm Rahul Raj</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=DexTerMtor-Rahul99&label=Profile%20views&color=0e75b6&style=plastic" alt="DexTerMtor-Rahul" /> </p>

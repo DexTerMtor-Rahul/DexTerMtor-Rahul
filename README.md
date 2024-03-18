@@ -21,24 +21,30 @@
 
 
 <!--- Skills --->
-<h2> Skills & Tools <img src = "https://media.tenor.com/66ZodQe5LN0AAAAi/99percentdone-sticker.gif" width = 32px> </h2>
+## Skills
 
-| <h3>Programming Languages</h3> | <a href= 'https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170' target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg' alt="C++"> </a> &nbsp;  <a href= 'https://docs.oracle.com/en/java/' > <img width ='40px' height='40px' align='left' src ='https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png' alt="Java"> </a> &nbsp; <a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' alt="Python"> </a> &nbsp; <a href= 'https://developer.mozilla.org/en-US/docs/Web/JavaScript' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="JavaScript"> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML"> </a> &nbsp; | 
-| :--- | :--- |
-| <h3>Development Frameworks</h3> | <a href="https://reactjs.org/docs/getting-started.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40px" align='left'> </a> &nbsp; <a href="ttps://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="40px" align='left'> </a> &nbsp; <a href="https://nodejs.org/en/docs/" > <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="NodeJS" width="35px" align='left'> </a> &nbsp;
-| <h3>Significant libraries</h3> | <a href="https://jwt.io/introduction"> <img src="https://miro.medium.com/v2/resize:fit:400/0*eeeO936i7XECDRzV.png" alt="JWT" width="40px" align="left" /> </a> &nbsp; <a href="https://redux.js.org/"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="JWT" width="40px" align="left" /> </a> &nbsp; </a> &nbsp; <a href="https://www.chartjs.org/docs/latest/"> <img src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" alt="JWT" width="40px" align="left" /> </a> &nbsp; <a href="https://reactrouter.com/en/main"> <img src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="RRD" width="40px" align="left" /> </a> &nbsp; <a href="https://mongoosejs.com/"> <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="RRD" width="40px" align="left" /> </a> &nbsp; 
-| <h3>Development Tools</h3> | <a href= 'https://developer.mozilla.org/en-US/docs/Web/CSS'> <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS"> </a> &nbsp; <a href= 'https://git-scm.com/doc' > <img width ='40px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg' alt="Git"> </a> &nbsp; 
-| <h3>Databases</h3> | <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" > <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" width="40px" align='left'> </a>&nbsp; <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40px" align='left'> </a> &nbsp; <a href="https://firebase.google.com/"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="Firebase" width="40px" align='left' /> </a> &nbsp;
+- Programming Languages:
 
-<br>
+[![language](https://skillicons.dev/icons?i=c,cpp,javascript,java,python,)](https://skillicons.dev)
 
-<!-- Connect with me -->
-<h2> Connect with me <img src='https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png' width="32px" height=32px> </h2>
+- Web Technologies & tools:
 
-| <h3> Social Links </h3> | <a href = 'https://www.linkedin.com/in/dextermtor-rahulraj/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; <a href = 'https://www.instagram.com/me.shubham._/'> <img width = '40px' align= 'center' src="https://img.icons8.com/fluency/344/instagram-new.png"/></a> &nbsp;
-| :-- | :-- 
-| <h3>Coding Platform Links</h3> | <a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; <a href = "https://codeforces.com/profile/DexTerMtor"><img width="80" alt="Codeforces logo" src="https://codeforces.org/s/34688/images/codeforces-sponsored-by-ton.png"></a>&nbsp;
+[![BackEnd](https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,firebase,aws)](https://skillicons.dev)
 
+
+## Connect with me: <p align="center">
+
+<a href = "https://www.linkedin.com/in/dextermtor-rahulraj/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href = "mailto:official.rahulraj2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+<a href = "https://www.instagram.com/me.shubham._/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+
+</p>
+
+ 
+## Coding Platform Links <p align="center">  
+<a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; 
+<a href = "https://codeforces.com/profile/DexTerMtor"><img width="80" alt="Codeforces logo" src="https://codeforces.org/s/34688/images/codeforces-sponsored-by-ton.png"></a>
+</p>
 <br>
 
 <!-- Leetcode Stats -->

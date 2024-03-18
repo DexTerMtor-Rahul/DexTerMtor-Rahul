@@ -15,7 +15,7 @@
 <ul>
   <li> 🎓 Currently pursuing a Master's in Computer Applications (MCA) from <a href="https://www.nitw.ac.in">NIT Warangal</a>.</li>
   <li>🌱  I’m Currently Exploring MERN Stack, AWS...</li>
-  <li>📫 Drop a mail at official.rahulraj2000@gmail.com to get in touch.</li>
+  <li>📫 Drop a mail at <a href = "mailto:official.rahulraj2000@gmail.com"> official.rahulraj2000@gmail.com </a> to get in touch.</li>
 </ul>
 
 <br>
@@ -58,9 +58,9 @@
 <!-- GitHub Stats -->
 <div>
 <h2> GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=DexTerMtor-Rahul&custom_title=Rahul's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="DexTerMtor-Rahul" align="center" width="32%" height="30%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexTerMtor-Rahul&layout=compact&langs_count=8&theme=react" width="24%" height="30%" alt="Sachin Gupta's stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DexTerMtor-Rahul&theme=react" alt="DexTerMtor-Rahul" width="34%" height="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DexTerMtor-Rahul&custom_title=Rahul's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="DexTerMtor-Rahul" align="center" width="34%" height="30%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexTerMtor-Rahul&layout=compact&langs_count=8&theme=react" width="30%" height="30%" alt="Sachin Gupta's stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DexTerMtor-Rahul&theme=react" alt="DexTerMtor-Rahul" width="34%" height="36%" />
 </div>
 
 <br>

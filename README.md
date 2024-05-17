@@ -30,7 +30,7 @@
 
 - Web Technologies & tools:
 
-[![BackEnd](https://skillicons.dev/icons?i=redux,mongodb,express,react,nodejs,firebase,aws)](https://skillicons.dev)
+[![BackEnd](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,firebase,aws)](https://skillicons.dev)
 
 
 ## Connect with me: <p align="center">

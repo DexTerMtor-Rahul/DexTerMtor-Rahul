@@ -26,7 +26,7 @@
 
 - Programming Languages:
 
-[![language](https://skillicons.dev/icons?i=c,cpp,javascript,java,python,)](https://skillicons.dev)
+[![language](https://skillicons.dev/icons?i=cpp,javascript,java,python,)](https://skillicons.dev)
 
 - Web Technologies & tools:
 

@@ -14,7 +14,7 @@
 | :--- | :--- | -->
 <ul>
   <li> 🎓 Currently pursuing a Master's in Computer Applications (MCA) from <a href="https://www.nitw.ac.in">NIT Warangal</a>.</li>
-  <li>🌱  I’m Currently Exploring MERN Stack, AWS...</li>
+  <li>🌱  I’m Currently Exploring MERN Stack, Machine Learning, Spring Boot</li>
   <li>📫 Drop a mail at <a href = "mailto:official.rahulraj2000@gmail.com"> official.rahulraj2000@gmail.com </a> to get in touch.</li>
 </ul>
 

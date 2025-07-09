@@ -59,8 +59,8 @@
 <div>
 <h2> GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=DexTerMtor-Rahul&custom_title=Rahul's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="DexTerMtor-Rahul" align="center" width="34%" height="30%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexTerMtor-Rahul&layout=compact&langs_count=8&theme=react" width="30%" height="30%" alt="Sachin Gupta's stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DexTerMtor-Rahul&theme=react" alt="DexTerMtor-Rahul" width="34%" height="36%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexTerMtor-Rahul&layout=compact&langs_count=8&theme=react" width="30%" height="30%" alt="Rahul stats" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DexTerMtor-Rahul&theme=react" alt="DexTerMtor-Rahul" width="34%" height="36%" /> -->
 </div>
 
 <br>

@@ -15,7 +15,7 @@
   <li> 🎓 Graduated in Master's in Computer Applications (MCA) from <a href="https://www.nitw.ac.in">NIT Warangal</a>.</li>
   <li>🌱  Open to work as Full Stack Developer, Python developer, Java Developer</li>
   <li>📫 Drop a mail at <a href = "mailto:official.rahulraj2000@gmail.com"> official.rahulraj2000@gmail.com </a> to get in touch.</li>
-  <li><a href = "https://my-portfolio-five-beta-93.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a> Check my Portfolio.</li>
+  <li>🌐 Check my Portfolio here => <a href = "https://my-portfolio-five-beta-93.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a></li>
 </ul>
 
 <br>

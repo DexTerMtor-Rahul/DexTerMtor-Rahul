@@ -13,8 +13,8 @@
 <!-- | <ul> <li> 🎓 Pursuing Masters in Computer Applications (MCA) from <a href="https://www.nitw.ac.in" >NIT Warangal </a></li> <li>🌱 Exploring NextJS, AWS </li> <li>💬 Ask me anything related to ReactJS, NodeJS, MongoDB, Redux, JWT</li> <li>👯 I’m looking for help with Github Actions</li> <li>📫 Drop a mail at official.rahulraj2000@gmail.com to get in touch.</li> </ul> | <a href="https://app.daily.dev/dextermtor"><img src="https://api.daily.dev/devcards/v2/AtCudDq1qDIeUQVuE7oT5.png?r=4lh&type=default" width="200px" alt="Rahul Raj's Dev Card"/></a>
 | :--- | :--- | -->
 <ul>
-  <li> 🎓 Currently pursuing a Master's in Computer Applications (MCA) from <a href="https://www.nitw.ac.in">NIT Warangal</a>.</li>
-  <li>🌱  I’m Currently Exploring MERN Stack, Machine Learning, Spring Boot</li>
+  <li> 🎓 Graduated in Master's in Computer Applications (MCA) from <a href="https://www.nitw.ac.in">NIT Warangal</a>.</li>
+  <li>🌱  Open to work as Full Stack Developer, Python developer, Java Developer</li>
   <li>📫 Drop a mail at <a href = "mailto:official.rahulraj2000@gmail.com"> official.rahulraj2000@gmail.com </a> to get in touch.</li>
 </ul>
 

@@ -1,4 +1,3 @@
-
 <p align="right"> <img src="https://github.com/DexTerMtor-Rahul/DexTerMtor-Rahul/blob/main/assets/banner.png" alt="Banner" /> </p>
 
 <h1 align="center">Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm Rahul Raj</h1>
@@ -8,9 +7,9 @@
 
 <h2> About Me <img src="https://media.tenor.com/_XILED2Kp4kAAAAi/top-hat-top-of-the-morning.gif" width="32px"> </h2>
 
-<!-- I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> pursuing Master of Computer Applications (MCA). Passionate about continuous learning and adept at adapting to diverse technologies and domains. I thrive on exploring cutting-edge innovations, applying them to address practical challenges. Known for swift assimilation of knowledge and a collaborative approach, complemented by effective communication skills. -->
+<!-- I am a final year student at <a href="https://nitw.ac.in/"> National Institute of Technology Warangal </a> pursuing Master of Computer Applications (MCA). Passionate about continuous learning[...]
 
-<!-- | <ul> <li> 🎓 Pursuing Masters in Computer Applications (MCA) from <a href="https://www.nitw.ac.in" >NIT Warangal </a></li> <li>🌱 Exploring NextJS, AWS </li> <li>💬 Ask me anything related to ReactJS, NodeJS, MongoDB, Redux, JWT</li> <li>👯 I’m looking for help with Github Actions</li> <li>📫 Drop a mail at official.rahulraj2000@gmail.com to get in touch.</li> </ul> | <a href="https://app.daily.dev/dextermtor"><img src="https://api.daily.dev/devcards/v2/AtCudDq1qDIeUQVuE7oT5.png?r=4lh&type=default" width="200px" alt="Rahul Raj's Dev Card"/></a>
+<!-- | <ul> <li> 🎓 Pursuing Masters in Computer Applications (MCA) from <a href="https://www.nitw.ac.in" >NIT Warangal </a></li> <li>🌱 Exploring NextJS, AWS </li> <li>💬 Ask me anything re[...]  
 | :--- | :--- | -->
 <ul>
   <li> 🎓 Graduated in Master's in Computer Applications (MCA) from <a href="https://www.nitw.ac.in">NIT Warangal</a>.</li>
@@ -38,12 +37,12 @@
 <a href = "https://www.linkedin.com/in/dextermtor-rahulraj/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 <a href = "mailto:official.rahulraj2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 <a href = "https://www.instagram.com/me.shubham._/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href = "https://my-portfolio-five-beta-93.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
 
 </p>
-
  
 ## Coding Platform Links <p align="center">  
-<a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png?20200120234911"/></a> &nbsp; 
+<a href = 'https://leetcode.com/DexTerMtor/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/141px-LeetCode_logo_white_no_text.svg.png"/></a>
 <a href = "https://codeforces.com/profile/DexTerMtor"><img width="80" alt="Codeforces logo" src="https://codeforces.org/s/34688/images/codeforces-sponsored-by-ton.png"></a>
 </p>
 <br>
@@ -58,7 +57,7 @@
 <!-- GitHub Stats -->
 <div>
 <h2> GitHub Stats <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"> </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=DexTerMtor-Rahul&custom_title=Rahul's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" alt="DexTerMtor-Rahul" align="center" width="34%" height="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DexTerMtor-Rahul&custom_title=Rahul's%20GitHub%20statistics&show_icons=true&theme=react&include_all_commits=true&rank_icon=percentile" width="49%" height="35%" alt="Rahul stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DexTerMtor-Rahul&layout=compact&langs_count=8&theme=react" width="30%" height="30%" alt="Rahul stats" />
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DexTerMtor-Rahul&theme=react" alt="DexTerMtor-Rahul" width="34%" height="36%" /> -->
 </div>
